@@ -13,5 +13,6 @@ STM32CubeMX v6.3.0<br>
 
 **Notes**
 
-**Demonstration**<br><br>
+
+**Demonstration**<br>
 ![](result.gif)
