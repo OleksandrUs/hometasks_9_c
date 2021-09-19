@@ -13,6 +13,10 @@ STM32CubeMX v6.3.0<br>
 
 **Notes**
 
+ In the program the effect of 'rotating colored lights at variable speed' 
+ is created by means of using two threads (tasks) - one to change the LEDs state
+ and the other to change time delays between LEDs state changes.
 
-**Demonstration**<br>
+**Demonstration**
+<br>
 ![](result.gif)
